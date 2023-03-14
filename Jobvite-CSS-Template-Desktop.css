@@ -37,7 +37,16 @@
 	.jv-apply-meta    		{}
 
 
-	.jv-button { }
+	.jv-button {.button {
+  background-color: #ffffff;
+  border: 2px solid #FEDB00;
+  color: #FEDB00;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 10px
+}}
 	.jv-button-primary { }
 
 	.jv-current-openings 	{ }
