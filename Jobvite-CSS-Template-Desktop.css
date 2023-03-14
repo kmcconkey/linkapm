@@ -17,13 +17,25 @@
 /* ===== JOB LISTINGS PAGE  =================== */ 
 	
 	.jv-page-error 		{ }
-	.jv-page-body h2 	{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
+	.jv-page-body h2 	{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 18px;
+		color: #000000;}
 
 	
 	h3.h2     			{ }
-	.jv-job-list  		{ }
-	.jv-job-list th  	{ }
-	.jv-job-list td  	{ }
+	.jv-job-list  		{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 10px;
+		color: #000000;}
+	.jv-job-list th  	{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 10px;
+		color: #000000;}
+	.jv-job-list td  	{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 10px;
+		color: #000000;}
 	.jv-job-list .jv-job-list-name  		{font-family: futura-pt, sans-serif;
 		font0wieght: 300;
 		font-size: 10px;
