@@ -58,7 +58,10 @@
 
 /* ========== JOB DETAILS PAGE =============== */ 
 	
-	h2.jv-header 	{font-size: 14.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 500;}
+	h2.jv-header 	{font-family: futura-pt, sans-serif;
+		font-weight: 500;
+		font-size: 14px;
+		color: #000000;}
 
 	.jv-job-detail-meta,
 	.jv-apply-meta    		{}
