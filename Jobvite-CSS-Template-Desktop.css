@@ -4,8 +4,10 @@
 	.jv-page-container 	{ }
 	.jv-page 			{ }
 	.jv-page-content 	{ }
-	.jv-page-header 	{ }
-	.jv-page-body 		{ }
+	.jv-page-header 	{color: #000000;
+  font-family: Futura, sans-serif}
+	.jv-page-body 		{color: #000000;
+  font-family: Futura, sans-serif}
 	.jv-wrapper 		{ }
 	.jv-footer 			{ }
 
