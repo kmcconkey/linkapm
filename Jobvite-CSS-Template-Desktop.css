@@ -5,9 +5,9 @@
 	.jv-page 			{ }
 	.jv-page-content 	{ }
 	.jv-page-header 	{color: #000000;
-  font-family: Futura, sans-serif}
+  font-family: Futura-pt, sans-serif}
 	.jv-page-body 		{color: #000000;
-  font-family: Futura, sans-serif}
+  font-family: Futura-pt, sans-serif}
 	.jv-wrapper 		{ }
 	.jv-footer 			{ }
 
@@ -16,7 +16,7 @@
 /* ===== JOB LISTINGS PAGE  =================== */ 
 	
 	.jv-page-error 		{ }
-	.jv-page-body h2 	{ }
+	.jv-page-body h2 	{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
 
 	
 	h3.h2     			{ }
@@ -33,7 +33,7 @@
 
 /* ========== JOB DETAILS PAGE =============== */ 
 	
-	h2.jv-header 	{}
+	h2.jv-header 	{font-size: 14.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 500;}
 
 	.jv-job-detail-meta,
 	.jv-apply-meta    		{}
