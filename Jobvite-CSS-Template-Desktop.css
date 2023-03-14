@@ -1,102 +1,98 @@
-
-
 /* ===== SITE LAYOUT =================== */
-	.jv-page-container 	{ }
-	.jv-page 			{ }
-	.jv-page-content 	{ }
-	.jv-page-header 	{font-family: futura-pt, sans-serif;
+	.jv-page-header {
+		font-family: futura-pt, sans-serif;
 		font-weight: 500;
-		font-size: 21px;
-		color: #000000;}
-	.jv-page-body 		{font-family: futura-pt, sans-serif;
+		font-size: 21px;
+		color: #000000;
+	}
+	.jv-page-body 		{
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-	.jv-wrapper 		{ }
-	.jv-footer 			{ }
-
-
-
+		font-size: 10px;
+		color: #000000;
+	}
 /* ===== JOB LISTINGS PAGE  =================== */ 
-	
-	.jv-page-error 		{ }
-	.jv-page-body h2 	{font-family: futura-pt, sans-serif;
+	.jv-page-error {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 18px;
-		color: #000000;}
-
-	
-	h3.h2     			{font-family: futura-pt, sans-serif;
+		font-size: 10px;
+		color: #000000;
+	}
+	.jv-page-body h2 {
+		font-family: futura-pt, sans-serif;
 		font-weight: 500;
-		font-size: 18px;
-		color: #000000;}
-	.jv-job-list  		{font-family: futura-pt, sans-serif;
+		font-size: 21px;
+		color: #000000;
+	}
+	h3.h2 {
+		font-family: futura-pt, sans-serif;
+		font-weight: 500;
+		font-size: 21px;
+		color: #000000;
+	}
+	.jv-job-list {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-	.jv-job-list th  	{font-family: futura-pt, sans-serif;
+		font-size: 10px;
+		color: #000000;
+	}
+	.jv-job-list th {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-	.jv-job-list td  	{font-family: futura-pt, sans-serif;
+		font-size: 10px;
+		color: #000000;
+	}
+	.jv-job-list td {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-	.jv-job-list .jv-job-list-name  		{font-family: futura-pt, sans-serif;
+		font-size: 10px;
+		color: #000000;
+	}
+	.jv-job-list .jv-job-list-name {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-	.jv-job-list .jv-job-list-location  	{font-family: futura-pt, sans-serif;
+		font-size: 10px;
+		color: #000000;
+	}
+	.jv-job-list .jv-job-list-location {
+		font-family: futura-pt, sans-serif;
 		font-weight: 300;
-		font-size: 10px;
-		color: #000000;}
-
-
-
-
-
-
+		font-size: 10px;
+		color: #000000;
+	}
 /* ========== JOB DETAILS PAGE =============== */ 
-	
-	h2.jv-header 	{font-family: futura-pt, sans-serif;
+	h2.jv-header {
+		font-family: futura-pt, sans-serif;
 		font-weight: 500;
-		font-size: 14px;
-		color: #000000;}
-
-	.jv-job-detail-meta,
-	.jv-apply-meta    		{}
-
-
-	.jv-button {.button {
-  background-color: #ffffff;
-  border: 2px solid #FEDB00;
-  color: #FEDB00;
-  padding: 15px 32px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 10px
-}}
-	.jv-button-primary { }
-
-	.jv-current-openings 	{ }
-	.jv-share-widget 		{ }
-
-	.jv-job-detail-bottom-actions,
-	.jv-apply-form-actions 	{ }
-
-
-
-
-
-
-/* ========== APPLY PAGE ====================== */ 
-	
-	.jv-form 				{}
-	.jv-apply-form 			{}
-	.jv-search-form 		{}
-
-	.jv-apply-step 			{}
-	.jv-apply-section 		{}
-	.jv-step-header 		{} 		/* Section Title */
-	.jv-required-label 		{}
+		font-size: 21px;
+		color: #000000;
+	}
+	.jv-button {
+		background-color: #ffffff;
+		border: 2px solid #FEDB00;
+		color: #FEDB00;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		display: inline-block;
+		font-size: 10px
+	}
+	.jv-button-primary {
+		background-color: #ffffff;
+		border: 2px solid #FEDB00;
+		color: #FEDB00;
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		text-transform: uppercase;
+		display: inline-block;
+		font-size: 10px
+	}
+	/* ========== APPLY PAGE ====================== */ 
+	.jv-step-header 		{
+		font-family: futura-pt, sans-serif;
+		font-weight: 500;
+		font-size: 21px;
+		color: #000000
+	} 		/* Section Title */
