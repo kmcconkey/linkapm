@@ -5,7 +5,10 @@
 	.jv-page 			{ }
 	.jv-page-content 	{ }
 	.jv-page-header 	{font-size: 14.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 500;}
-	.jv-page-body 		{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
+	.jv-page-body 		{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 10px;
+		color: #000000;}
 	.jv-wrapper 		{ }
 	.jv-footer 			{ }
 
@@ -21,7 +24,10 @@
 	.jv-job-list  		{ }
 	.jv-job-list th  	{ }
 	.jv-job-list td  	{ }
-	.jv-job-list .jv-job-list-name  		{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
+	.jv-job-list .jv-job-list-name  		{font-family: futura-pt, sans-serif;
+		font0wieght: 300;
+		font-size: 10px;
+		color: #000000;}
 	.jv-job-list .jv-job-list-location  	{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
 
 
