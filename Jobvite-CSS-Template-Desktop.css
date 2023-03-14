@@ -4,10 +4,8 @@
 	.jv-page-container 	{ }
 	.jv-page 			{ }
 	.jv-page-content 	{ }
-	.jv-page-header 	{color: #000000;
-  font-family: Futura-pt, sans-serif}
-	.jv-page-body 		{color: #000000;
-  font-family: Futura-pt, sans-serif}
+	.jv-page-header 	{font-size: 14.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 500;}
+	.jv-page-body 		{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
 	.jv-wrapper 		{ }
 	.jv-footer 			{ }
 
