@@ -21,8 +21,8 @@
 	.jv-job-list  		{ }
 	.jv-job-list th  	{ }
 	.jv-job-list td  	{ }
-	.jv-job-list .jv-job-list-name  		{ }
-	.jv-job-list .jv-job-list-location  	{ }
+	.jv-job-list .jv-job-list-name  		{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
+	.jv-job-list .jv-job-list-location  	{font-size: 10.0pt;font-family: ‘futura-pt’, sans-serif;color: rgb(0,0,0);background-color: transparent;font-weight: 300;}
 
 
 
